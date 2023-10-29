@@ -24,7 +24,7 @@ jobs:
 
     - name: Build Distribution
       run: |
-        python setup.py sdist
+        python ../../setup.py sdist
 
     - name: Publish to PyPI
       run: |
