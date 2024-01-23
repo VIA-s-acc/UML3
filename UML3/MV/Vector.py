@@ -68,10 +68,12 @@ class Vector():
     Please refer to the Custom Exceptions section for more details on these exceptions and how to use them in your code.
 
     ## `Requirements`
-    The Vector class is designed for use in Python 3.12+ environments | 
+    - **`matplotlib`**.
+    - The Vector class is designed for use in Python 3.12+ environments.
+    
     ```css 
     IN <3.12 may be bugs :)
-    ``` .
+    ``` 
 
     Installation
     You can install the Vector library using pip:
